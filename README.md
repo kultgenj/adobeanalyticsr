@@ -109,8 +109,8 @@ AW_COMPANY_ID = "[Company ID]"
 AW_REPORTSUITE_ID = "[RSID]"
 
 ## If using JWT 
-AW_CLIENT_ID = "[OAuth client ID]"
-AW_CLIENT_SECRET = "[OAuth client secret]"
+AW_CLIENT_ID = "[JWT client ID]"
+AW_CLIENT_SECRET = "[JWT client secret]"
 AW_PRIVATE_KEY = "[private.key]"
 AW_ORGANIZATION_ID = "[xxxxxxxxxxxxxx@AdobeOrg]"
 AW_TECHNICAL_ID = "[xxxxxxxxxxxxx@techacct.adobe.com]"
